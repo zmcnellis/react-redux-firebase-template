@@ -1,0 +1,9 @@
+/* Styles */
+
+a.active {
+  color: orange;
+}
+
+body {
+  padding-top: 70px;
+}
